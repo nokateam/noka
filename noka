@@ -1,0 +1,18 @@
+# APK Links Configuration File
+# Format: APP_NAME=GOFILE_LINK
+# Place this file in your GitHub repository (e.g., apk_links.txt)
+
+# Delta App
+DELTA=https://gofile.io/d/your_delta_link_here
+
+# Arceus X App
+ARCEUS_X=https://gofile.io/d/your_arceus_link_here
+
+# Codex App
+CODEX=https://gofile.io/d/your_codex_link_here
+
+# Notes:
+# - Replace the placeholder links with your actual gofile.io links
+# - Each link should point to a gofile folder containing an APK file
+# - Lines starting with # are comments and will be ignored
+# - Do not add spaces around the = sign
